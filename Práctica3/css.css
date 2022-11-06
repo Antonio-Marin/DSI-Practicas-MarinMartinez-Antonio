@@ -18,6 +18,7 @@ header{
 }
 
 section.p{
+    text-align: justify;
     padding: 5px;
     background-color: #8ac926;
     font-family: Bahnschrift;
@@ -45,9 +46,9 @@ html{
 }
 section.timage{
     background-color: #1982C4;
-    padding: 10px;
-    margin-left: 35%;
-    margin-right: 38%;
+    padding: auto;
+    border: 5px solid #1982C4;
+    float: right;
 }
 a{
     color: #D62828;
