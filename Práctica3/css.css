@@ -1,0 +1,54 @@
+h1{
+    padding: 8px;
+    font-size: 50px;
+    border-bottom: 3px solid;
+    background-color: #FF595E;
+    font-family: Fuego Fatuo;
+}
+
+h3{
+    font-family: Arial;
+}
+
+header{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-color: #FFCA3A;
+}
+
+section.p{
+    padding: 5px;
+    background-color: #8ac926;
+    font-family: Bahnschrift;
+}
+.tabla1{
+    font-family: Bahnschrift;
+    border: 4px solid;
+    background-color: #1982C4;
+}
+.tabla2 tr td{
+    padding: 8px;
+    font-family: Bahnschrift;
+    border: 2px solid;
+    background-color: #8ac926;
+}
+section.comment{
+    font-family: Bahnschrift;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-top: 3px;
+    background-color: #6A4C93;
+}
+html{
+    background-color: #EAE2B7;
+}
+section.timage{
+    background-color: #1982C4;
+    padding: 10px;
+    margin-left: 35%;
+    margin-right: 38%;
+}
+a{
+    color: #D62828;
+}
