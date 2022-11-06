@@ -35,11 +35,21 @@ section.p{
     background-color: #8ac926;
 }
 section.comment{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    padding:  8px;
     font-family: Bahnschrift;
-    padding-left: 10px;
-    padding-bottom: 15px;
-    padding-top: 3px;
     background-color: #6A4C93;
+    border-bottom: 40px solid #6A4C93;
+}
+.texto{
+    width: 200%;
+    height: 50%;
+}
+.boton{
+    margin-top: 5px;
+    background-color: #1982C4;
 }
 html{
     background-color: #EAE2B7;
