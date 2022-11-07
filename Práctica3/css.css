@@ -50,6 +50,7 @@ section.comment{
 .textcomment{
     text-align: center;
     background-color: #8ac926;
+    position: sticky;
 }
 .texto{
     width: 200%;
