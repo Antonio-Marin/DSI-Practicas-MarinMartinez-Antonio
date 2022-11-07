@@ -69,6 +69,7 @@ section.timage{
     border: 5px solid #1982C4;
     float: right;
     position: relative;
+    margin-left: 2%;
 }
 a{
     color: #D62828;
