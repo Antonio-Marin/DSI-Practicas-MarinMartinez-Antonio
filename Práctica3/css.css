@@ -15,6 +15,7 @@ header{
     padding-bottom: 5px;
     padding-left: 10px;
     background-color: #FFCA3A;
+    position: relative;
 }
 
 section.p{
@@ -22,17 +23,20 @@ section.p{
     padding: 5px;
     background-color: #8ac926;
     font-family: Bahnschrift;
+    position: sticky;
 }
 .tabla1{
     font-family: Bahnschrift;
     border: 4px solid;
     background-color: #1982C4;
+    display: inline-block;
 }
 .tabla2 tr td{
     padding: 8px;
     font-family: Bahnschrift;
     border: 2px solid;
-    background-color: #8ac926;
+    background-color: #1982C4;
+    position: relative;
 }
 section.comment{
     display: flex;
@@ -40,8 +44,12 @@ section.comment{
     justify-content: left;
     padding:  8px;
     font-family: Bahnschrift;
-    background-color: #6A4C93;
-    border-bottom: 40px solid #6A4C93;
+    background-color: #1982C4;
+    border-bottom: 40px solid #1982C4;
+}
+.textcomment{
+    text-align: center;
+    background-color: #8ac926;
 }
 .texto{
     width: 200%;
@@ -49,7 +57,7 @@ section.comment{
 }
 .boton{
     margin-top: 5px;
-    background-color: #1982C4;
+    background-color: #6A4C93;
 }
 html{
     background-color: #EAE2B7;
@@ -59,6 +67,7 @@ section.timage{
     padding: auto;
     border: 5px solid #1982C4;
     float: right;
+    position: relative;
 }
 a{
     color: #D62828;
