@@ -74,3 +74,23 @@ section.timage{
 a{
     color: #D62828;
 }
+.container{
+    justify-content: center;
+    box-sizing: border-box;
+    display: grid; 
+
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-item{
+    background-color: #1982C4;
+    display: inline-grid;
+    border: 5px solid #6A4C93;
+    justify-items: center;
+    padding: 6px;
+
+}
+.textoim{
+    font-family: Bahnschrift;
+}
