@@ -106,3 +106,18 @@ a{
 .textoim{
     font-family: Bahnschrift;
 }
+footer{
+    background-color: #1982C4;
+    padding: 10px;
+}
+button.inifin{
+        background-color: #6A4C93;
+        margin-left: 50%;
+}
+button.sig{
+    background-color: #6A4C93;
+    float: right;
+}
+button.ant{
+    background-color: #6A4C93;
+}

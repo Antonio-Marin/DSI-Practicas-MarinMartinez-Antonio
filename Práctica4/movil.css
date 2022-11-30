@@ -92,3 +92,19 @@ section.comment{
     margin-top: 5px;
     background-color: #6A4C93;
 }
+
+footer{
+    background-color: #1982C4;
+    padding: 10px;
+}
+button.inifin{
+        background-color: #6A4C93;
+        margin-left: 30%;
+}
+button.sig{
+    background-color: #6A4C93;
+    float: right;
+}
+button.ant{
+    background-color: #6A4C93;
+}
